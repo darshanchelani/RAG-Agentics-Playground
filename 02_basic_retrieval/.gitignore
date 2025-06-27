@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# VSCode config (optional)
+.vscode/
+.qodo
+
+# Qdrant (if local data stored)
+qdrant_storage/
+
+# System files
+.DS_Store
